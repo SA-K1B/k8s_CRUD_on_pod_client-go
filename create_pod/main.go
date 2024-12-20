@@ -27,7 +27,7 @@ func main() {
 	// defining a pod object
 	pod := &corev1.Pod{
 		ObjectMeta: metav1.ObjectMeta{
-			Name:      "nginx-pod-2",
+			Name:      "nginx-pod",
 			Namespace: "default",
 		},
 		Spec: corev1.PodSpec{
