@@ -6,7 +6,7 @@ Used client-go to create and list pods programmatically.
 
 ### Prerequisites
 
-* **Go** to run the scripts. 
+* **Golang** to run the scripts. 
 
 * **Minikube** a lightweight Kubernetes setup for local development.
 
